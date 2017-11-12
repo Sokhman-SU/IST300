@@ -311,3 +311,9 @@ footer {
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+.btn-lg {
+  border-radius: 700px;
+  font-size: 20px;
+  background-color: black;
+}
